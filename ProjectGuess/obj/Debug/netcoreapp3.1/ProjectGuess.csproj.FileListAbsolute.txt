@@ -1,0 +1,13 @@
+/Users/prado/Documents/ProjectGuess/ProjectGuess/bin/Debug/netcoreapp3.1/ProjectGuess.deps.json
+/Users/prado/Documents/ProjectGuess/ProjectGuess/bin/Debug/netcoreapp3.1/ProjectGuess.runtimeconfig.json
+/Users/prado/Documents/ProjectGuess/ProjectGuess/bin/Debug/netcoreapp3.1/ProjectGuess.runtimeconfig.dev.json
+/Users/prado/Documents/ProjectGuess/ProjectGuess/bin/Debug/netcoreapp3.1/ProjectGuess.dll
+/Users/prado/Documents/ProjectGuess/ProjectGuess/bin/Debug/netcoreapp3.1/ProjectGuess.pdb
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.csproj.AssemblyReference.cache
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.AssemblyInfoInputs.cache
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.AssemblyInfo.cs
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.csproj.CoreCompileInputs.cache
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.dll
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.pdb
+/Users/prado/Documents/ProjectGuess/ProjectGuess/obj/Debug/netcoreapp3.1/ProjectGuess.genruntimeconfig.cache
